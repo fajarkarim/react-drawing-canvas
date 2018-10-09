@@ -1,6 +1,6 @@
 {
   "name": "simple-react-drawing-canvas",
-  "version": "1.0.0",
+  "version": "1.9.0",
   "description": "simple canvas drawing with polygon and line toolset.",
   "author": "fajarkarim",
   "license": "MIT",
